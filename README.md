@@ -1,4 +1,4 @@
-# Persian News Prediction Using GRU Model
+# Persian News Prediction Using GRU Units
 In this notebook, a model is developed to generate persian news using GRU units. The model is then trained on Persian Wikipedia Dataset.
 
 [Dataset on kaggle](https://www.kaggle.com/datasets/miladfa7/persian-wikipedia-dataset)
